@@ -19,6 +19,25 @@ System.out.println();
 }   
 }   
 }  
+
+.
+.
+.
+.
+feature302 added by dev2
+public class MultiplyTwoNumbers {
+
+    public static void main(String[] args) {
+
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
+}
+
 feature301 added by dev1
 class Main {
 
@@ -32,5 +51,3 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
-git status
-[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[

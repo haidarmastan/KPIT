@@ -19,12 +19,13 @@ System.out.println();
 }   
 }   
 }  
+
 .
 .
 .
 .
-[feature302 added by dev2[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C
-public class MultiplyTwoNumbers {
+feature302 added by dev2
+public class MultiplyTwoNumbers {
 
     public static void main(String[] args) {
 
@@ -35,4 +36,18 @@ System.out.println();
 
         System.out.println("The product is: " + product);
     }
+}
+
+feature301 added by dev1
+class Main {
+
+  public static void main(String[] args) {
+    
+    int first = 10;
+    int second = 20;
+
+    // add two numbers
+    int sum = first + second;
+    System.out.println(first + " + " + second + " = "  + sum);
+  }
 }

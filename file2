@@ -1,0 +1,15 @@
+>>> x = 5
+
+>>> while x < 15:
+	if x % 2 == 0:
+		x += 1
+		continue
+	print("Odd:", x)
+	x += 1
+
+	
+Odd: 5
+Odd: 7
+Odd: 9
+Odd: 11
+Odd: 13
